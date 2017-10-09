@@ -8,8 +8,11 @@
   },
   "repository": "https://github.com/joeymann/stains",
   "author": "iosef.org",
-  "license": "BSD-3-clause",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "electron": "1.7.8"
+  },
+  "dependencies": {
+    "less": "^3.0.0-alpha.3"
   }
 }
