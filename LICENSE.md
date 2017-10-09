@@ -1,7 +1,8 @@
-BSD 3-Clause License
+> All files in the root directory are released under the licence below. Node packages included subject to licences found in their directories.
 
-Copyright (c) 2017, Joey Mann
-All rights reserved.
+# BSD 3-Clause License
+
+>Copyright (c) 2017, Joey Mann; All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
